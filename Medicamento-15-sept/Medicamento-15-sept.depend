@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1505486330 source:c:\users\alumno\desktop\medicamento-15-sept\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Medicamento.h"
+
+1505487828 source:c:\users\alumno\desktop\medicamento-15-sept\medicamento.c
+	<stdio.h>
+	<stdlib.h>
+	"Medicamento.h"
+
+1505487030 c:\users\alumno\desktop\medicamento-15-sept\medicamento.h
+
