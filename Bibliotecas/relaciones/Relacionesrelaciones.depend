@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1506609128 source:c:\users\alumno\desktop\relacionesrelaciones\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Relaciones.h"
+
+1506609128 c:\users\alumno\desktop\relacionesrelaciones\relaciones.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1506603774 source:c:\users\alumno\desktop\relacionesrelaciones\relaciones.c
+

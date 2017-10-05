@@ -1,0 +1,13 @@
+1- Cargar hardcodeando datos:
+	a. Medicamentos
+	b. Laboratorios
+	c. Clientes
+	d. Clientes - Medicamentos
+2- Mostrar:
+a. Medicamentos	
+b. Clientes
+c. Cada cliente con los medicamentos que compro.
+d. Por cada medicamento: los clientes que lo compraron.	
+e. Por cada medicamento: Total de las ventas.
+f. El medicamento mas vendido.
+g. Todos los clientes que compraron medicamentos del laboratorio Roemers.
